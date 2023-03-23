@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simples-countries/static/css/main.8518f2a6.css",
+    "main.js": "/simples-countries/static/js/main.739cb7d2.js",
+    "static/js/787.862c3719.chunk.js": "/simples-countries/static/js/787.862c3719.chunk.js",
+    "index.html": "/simples-countries/index.html",
+    "main.8518f2a6.css.map": "/simples-countries/static/css/main.8518f2a6.css.map",
+    "main.739cb7d2.js.map": "/simples-countries/static/js/main.739cb7d2.js.map",
+    "787.862c3719.chunk.js.map": "/simples-countries/static/js/787.862c3719.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8518f2a6.css",
+    "static/js/main.739cb7d2.js"
+  ]
+}
