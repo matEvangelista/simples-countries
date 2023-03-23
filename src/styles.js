@@ -8,12 +8,15 @@ export const InputContainer = styled.section`
   align-items: center;
   background-color: rgb(31, 4, 68);
   text-align: center;
-  padding: 5rem 0;
+  padding: 1rem 0;
+  position: fixed;
+  top: 0;
   color: white;
 
   input {
     padding: .8rem;
-    width: 50%;
+    width: 90%;
+    max-width: 800px;
     font-size: 1.2rem;
     border: none;
     border-radius: 10px;

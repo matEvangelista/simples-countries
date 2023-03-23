@@ -58,7 +58,7 @@ function App() {
       {loading ? (
         <Loading />
       ) : (
-        <section className="container">
+        <section className="container" style={{marginTop: "10rem"}}>
           <div className="row justify-content-around">
             {data.filter(filtersByInput).map(createCards)}
           </div>
